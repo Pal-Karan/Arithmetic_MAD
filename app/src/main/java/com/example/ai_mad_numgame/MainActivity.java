@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
     public int sumOfScore(){
         //Computing the sum of score array, which has the 1 or in each index,depending on correct or incorrect answers
         int sum=0;
+        //sum will be calculated by fetching the scores from the newMatch
        // your code here
         return sum;
     }
